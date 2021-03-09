@@ -1,7 +1,7 @@
 from flask import Flask,render_template,jsonify
 import pandas as pd
 import json
-from dateutil import parser
+#from dateutil import parser
 from datetime import datetime
 import numpy as np
 
