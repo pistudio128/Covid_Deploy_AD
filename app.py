@@ -11,8 +11,6 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask_pymongo import PyMongo
 
-import datetime as dt
-
 # from flask_sqlalchemy import SQLAlchemy # db enabled
 from sqlalchemy import create_engine
 
