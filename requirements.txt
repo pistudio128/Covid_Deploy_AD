@@ -15,4 +15,7 @@ six==1.15.0
 SQLAlchemy==1.3.22
 Werkzeug==1.0.1
 wincertstore==0.2
-PyMongo
+flask_pymongo
+dateutil 
+datetime 
+json
